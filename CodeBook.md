@@ -82,3 +82,14 @@ frequencyBodyGyroscopeMagnitudeStd
 freuencyBodyGyroscopeMagnitudeMeanFreq 
 frequencyBodyGyroscopeJerkMagnitudeMean 
 frequencyBodyGyroscopeJerkMagnitudeStd
+
+Activity Labels
+WALKING 
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING 
+LAYING
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
